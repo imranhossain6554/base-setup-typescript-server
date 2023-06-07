@@ -4,7 +4,7 @@ const app: Application = express()
 app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
-app.get('/', (reqss, res) => {
+app.get('/', (reqsds, res) => {
   res.send('server running successfully!')
 })
 
