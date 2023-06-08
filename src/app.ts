@@ -1,5 +1,5 @@
 import cors from 'cors'
-import express, { Application } from 'express'
+import express, { Application, Request, Response } from 'express'
 import swaggerUi from 'swagger-ui-express'
 import globalErrorHandler from './app/middlewares/globalErrorHandler'
 import { UserRoutes } from './app/modules/users/users.route'
@@ -13,9 +13,12 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 //Testing
-app.get('/', () => {
+app.get('/', async (req: Request, res: Response) => {
   //throw new Error('Not implemented')
-  console.log('working perfect')
+  res.status(200).json({
+    success: true,
+    message: 'running successfully!',
+  })
 })
 app.use('/api/v1/users', UserRoutes)
 
