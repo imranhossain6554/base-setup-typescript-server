@@ -1,0 +1,68 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "Swagger-nagair-system",
+    "description": "Swagger Api Docs For Nag Air.",
+    "contact": {
+      "email": ""
+    }
+  },
+  "schemes": ["http", "https"],
+  "paths": {
+    "/api/v1/users/signup": {
+      "post": {
+        "tags": ["Auth"],
+        "summary": "User Registration",
+        "description": "Endpoint for user registration",
+        "consumes": ["application/json"],
+        "produces": ["application/json"],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "User information",
+            "required": true,
+            "schema": {
+              "type": "object",
+              "properties": {
+                "user": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string",
+                      "example": "imran"
+                    },
+                    "email": {
+                      "type": "string",
+                      "example": "imran2@gmail.com"
+                    },
+                    "password": {
+                      "type": "string",
+                      "example": "12345678"
+                    },
+                    "role": {
+                      "type": "string",
+                      "example": "student"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful operation"
+          },
+          "404": {
+            "description": "Not Found"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    }
+  }
+}

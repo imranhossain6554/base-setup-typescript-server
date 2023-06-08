@@ -4,7 +4,7 @@ import { UserController } from './users.controller'
 const router = express.Router()
 
 router.post(
-  '/create-user',
+  '/signup',
 
   UserController.createUser
 )
