@@ -1,0 +1,15 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/.b5a66a87cf5b4b67063fea47c277233552e7096e-audit.json",
+  "files": [
+    {
+      "date": 1686216812622,
+      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-08-06-15-error.log",
+      "hash": "4adcb6c7d884155741493969fb36a2d57b9b245a577a76b66297f45fc7d9dab2"
+    }
+  ],
+  "hashType": "sha256"
+}
