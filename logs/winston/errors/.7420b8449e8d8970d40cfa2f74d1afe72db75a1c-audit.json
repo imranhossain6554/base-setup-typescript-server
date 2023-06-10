@@ -1,25 +1,35 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/.7420b8449e8d8970d40cfa2f74d1afe72db75a1c-audit.json",
-  "files": [
-    {
-      "date": 1686216984490,
-      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-08-15-error.log",
-      "hash": "1f51fff4575d0e04a502875708a2cecb12315c456e1423077ce81a5f2569eb8f"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1686218706088,
-      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-08-16-error.log",
-      "hash": "375ea877b4dc1bb71d38f754e92fbb9d238ddd8e6c35521b0f2e19eca0311321"
-    },
-    {
-      "date": 1686222271591,
-      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-08-17-error.log",
-      "hash": "3da288891a49fc7bb69ab6fc4d50e2be5d5202352b953e2dfd24075a005ee076"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/.7420b8449e8d8970d40cfa2f74d1afe72db75a1c-audit.json",
+    "files": [
+        {
+            "date": 1686216984490,
+            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-08-15-error.log",
+            "hash": "1f51fff4575d0e04a502875708a2cecb12315c456e1423077ce81a5f2569eb8f"
+        },
+        {
+            "date": 1686218706088,
+            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-08-16-error.log",
+            "hash": "375ea877b4dc1bb71d38f754e92fbb9d238ddd8e6c35521b0f2e19eca0311321"
+        },
+        {
+            "date": 1686222271591,
+            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-08-17-error.log",
+            "hash": "3da288891a49fc7bb69ab6fc4d50e2be5d5202352b953e2dfd24075a005ee076"
+        },
+        {
+            "date": 1686369567188,
+            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-10-09-error.log",
+            "hash": "1b79ceb985e50f20bacb224d9e174a2f845d86eac181a45a8397eb17cdad10bc"
+        },
+        {
+            "date": 1686373067607,
+            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-10-10-error.log",
+            "hash": "192d21db67f7d42844c43cd630488734a0820e39e6f5eb5892c996112dcb85f3"
+        }
+    ],
+    "hashType": "sha256"
 }
