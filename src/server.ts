@@ -36,13 +36,17 @@ async function boostrap() {
       process.exit(1);
     }
   });
+
+  process.on('SIGTERM', () => {
+    logger.info('SIGTERM signal received. Gracefully shutting down...');
+    if (server) {
+      server.close(() => {
+        process.exit(0);
+      });
+    } else {
+      process.exit(0);
+    }
+  });
 }
 
 boostrap();
-
-process.on('SIGTERM', () => {
-  logger.info('SIGTERM is received');
-  if (server) {
-    server.close();
-  }
-});

@@ -1,45 +1,45 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/.0c22f30009db43dcc4e8bf212d569015850695d3-audit.json",
+  "files": [
+    {
+      "date": 1686216984481,
+      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-08-15-success.log",
+      "hash": "17e64b29de65f3f49083f83933ee517e410e8ad02cb7e2ad44a3af543b390dac"
     },
-    "auditLog": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/.0c22f30009db43dcc4e8bf212d569015850695d3-audit.json",
-    "files": [
-        {
-            "date": 1686216984481,
-            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-08-15-success.log",
-            "hash": "17e64b29de65f3f49083f83933ee517e410e8ad02cb7e2ad44a3af543b390dac"
-        },
-        {
-            "date": 1686218706080,
-            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-08-16-success.log",
-            "hash": "20b6fe947ebf43975a7937f1a6d96d9867ebc0ad9638a7c2239c1a61e2ff58e9"
-        },
-        {
-            "date": 1686222271587,
-            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-08-17-success.log",
-            "hash": "7ad2ff6e803825dab2bf6947ecf5b6cdfea17a05f2343c82ae713041738adeff"
-        },
-        {
-            "date": 1686369567181,
-            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-10-09-success.log",
-            "hash": "501f20baa84247ca2e23c4134a862eb4e9aa02a07162c1c189ca0a535b938d89"
-        },
-        {
-            "date": 1686371793583,
-            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-10-10-success.log",
-            "hash": "3f37db6c458192884bf210fc2bb6d8b5be0e5a79dc7b9622faa8f1bec474d11b"
-        },
-        {
-            "date": 1686373291936,
-            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-10-11-success.log",
-            "hash": "c4b9f100083e6245153a73d9ae8c9fb38cef9d3678420daf81509e640ff5c156"
-        },
-        {
-            "date": 1686376949779,
-            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-10-12-success.log",
-            "hash": "f62c58cb41de3726993933cbd3a7525101daf4905dad07646ebcc0929a1c7ce3"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686218706080,
+      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-08-16-success.log",
+      "hash": "20b6fe947ebf43975a7937f1a6d96d9867ebc0ad9638a7c2239c1a61e2ff58e9"
+    },
+    {
+      "date": 1686222271587,
+      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-08-17-success.log",
+      "hash": "7ad2ff6e803825dab2bf6947ecf5b6cdfea17a05f2343c82ae713041738adeff"
+    },
+    {
+      "date": 1686369567181,
+      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-10-09-success.log",
+      "hash": "501f20baa84247ca2e23c4134a862eb4e9aa02a07162c1c189ca0a535b938d89"
+    },
+    {
+      "date": 1686371793583,
+      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-10-10-success.log",
+      "hash": "3f37db6c458192884bf210fc2bb6d8b5be0e5a79dc7b9622faa8f1bec474d11b"
+    },
+    {
+      "date": 1686373291936,
+      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-10-11-success.log",
+      "hash": "c4b9f100083e6245153a73d9ae8c9fb38cef9d3678420daf81509e640ff5c156"
+    },
+    {
+      "date": 1686376949779,
+      "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/successes/phu-2023-06-10-12-success.log",
+      "hash": "f62c58cb41de3726993933cbd3a7525101daf4905dad07646ebcc0929a1c7ce3"
+    }
+  ],
+  "hashType": "sha256"
 }

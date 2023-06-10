@@ -13,3 +13,17 @@ Sat Jun 10 2023 12:13:11 } [PH] info: SIGTERM is received
 Sat Jun 10 2023 12:14:39 } [PH] info: 🛢   Database is connected successfully
 Sat Jun 10 2023 12:14:39 } [PH] info: Application  listening on port 5001
 Sat Jun 10 2023 12:14:48 } [PH] info: SIGTERM is received
+Sat Jun 10 2023 12:18:2 } [PH] info: 🛢   Database is connected successfully
+Sat Jun 10 2023 12:18:2 } [PH] info: Application  listening on port 5001
+Sat Jun 10 2023 12:18:21 } [PH] info: SIGTERM is received
+Sat Jun 10 2023 12:22:52 } [PH] info: 🛢   Database is connected successfully
+Sat Jun 10 2023 12:22:52 } [PH] info: Application  listening on port 5001
+Sat Jun 10 2023 12:22:58 } [PH] info: SIGTERM is received
+Sat Jun 10 2023 12:23:3 } [PH] info: 🛢   Database is connected successfully
+Sat Jun 10 2023 12:23:3 } [PH] info: Application  listening on port 5001
+Sat Jun 10 2023 12:24:17 } [PH] info: SIGTERM is received
+Sat Jun 10 2023 12:25:40 } [PH] info: 🛢   Database is connected successfully
+Sat Jun 10 2023 12:25:40 } [PH] info: Application  listening on port 5001
+Sat Jun 10 2023 12:25:58 } [PH] info: SIGTERM signal received. Gracefully shutting down...
+Sat Jun 10 2023 12:26:3 } [PH] info: 🛢   Database is connected successfully
+Sat Jun 10 2023 12:26:3 } [PH] info: Application  listening on port 5001
