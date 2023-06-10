@@ -23,6 +23,7 @@ async function boostrap() {
   } catch (err) {
     // eslint-disable-next-line no-console
     errorLogger.error('Failed to connect database', err);
+    process.exit(1);
   }
 
   process.on('unhandledRejection', error => {

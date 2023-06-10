@@ -34,6 +34,11 @@
             "date": 1686373291939,
             "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-10-11-error.log",
             "hash": "c4359d1c97c807882b0e76b24707d042cf28c4eb68618ea2c163b3753c4b2ca2"
+        },
+        {
+            "date": 1686376949784,
+            "name": "/home/gbl/Desktop/base-project-setup/final-base-server-typescript/logs/winston/errors/phu-2023-06-10-12-error.log",
+            "hash": "a709408a353a89a722218ae0142fc4ad9d8ea1d0fce15c430dfde99f360a8b0d"
         }
     ],
     "hashType": "sha256"
